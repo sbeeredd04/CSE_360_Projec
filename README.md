@@ -1,1 +1,1 @@
-# CSE_360_Projec
+# CSE_360_Project
